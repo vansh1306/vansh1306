@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing games
 - 🌱 I’m currently pursuing b.tech cs
 - 💞️ I’m looking to collaborate on any projects :)
-- 📫 @Vansh Srivastav- LinkedIn & @Vansh_Srivastava01 - Instagram
+- 📫 @Vansh Srivastava- LinkedIn & @Vansh_Srivastava01 - Instagram
 - 😄 He/Him
 - ⚡ I don't like python language
 
