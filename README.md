@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @vansh1306
-- 👀 I’m interested in playing games
 - 🌱 I’m currently pursuing b.tech cs
 - 💞️ I’m looking to collaborate on any projects :)
 - 📫 @Vansh Srivastava- LinkedIn & @Vansh_Srivastava01 - Instagram
