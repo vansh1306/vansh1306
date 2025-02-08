@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on any projects :)
 - 📫 @Vansh Srivastava- LinkedIn & @Vansh_Srivastava01 - Instagram
 - 😄 He/Him
-- ⚡ I don't like python language
+- ⚡ I always eager to learn about new technologies and new things
 
 <!---
 vansh1306/vansh1306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
