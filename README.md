@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Vansh Srivastava and I'm a Student, from UPES 🎓<br><br>And i am passionate about cloud computing and always eager to learn new things 🧑‍💻</h2>
-🚀 **Live Demo:** [Check this out](https://vansh1306.github.io/New-Portfolio/)
+
 
 ###
 
