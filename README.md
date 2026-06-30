@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vansh Srivastava and I'm a Student, from UPES 🎓<br><br>And i am passionate about cloud computing and always eager to learn new things 🧑‍💻</h2>
+<h2 align="left">Hi 👋! My name is Vansh Srivastava and I'm a Student, from UPES 🎓<br><br>And i am passionate about developing softwares, cloud computing and always eager to learn new things 🧑‍💻</h2>
 
 
 ###
